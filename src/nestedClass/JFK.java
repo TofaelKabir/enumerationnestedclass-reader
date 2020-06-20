@@ -1,6 +1,6 @@
 package nestedClass;
 
-
+//To test
 
 
 public class JFK { //OPENING OF OUTER CLASS BODY
